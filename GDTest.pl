@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # Demonstrate use of GD module to draw graphs using code from help file mainly
 # Corran Musk 2012-04-07
-#
+# Uses code from GD POD
 
 use GD::Graph::points;
 
